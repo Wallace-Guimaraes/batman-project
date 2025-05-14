@@ -143,7 +143,7 @@ li:hover {
     transform: scale(1.10);
 }
 .banner-1 {
-    background-image: url('https://static.wikia.nocookie.net/the-batman-universe/images/8/8f/Batman_promo_-_The_Batman.jpeg/revision/latest?cb=20220209175916');
+    background-image: url('https://static.wikia.nocookie.net/the-batman-universe/images/8/8f/Batman_promo_-_The_Batman.jpeg');
 
 }
 .banner-2 {
@@ -151,7 +151,7 @@ li:hover {
 
 }
 .banner-3 {
-    background-image: url('https://static.wikia.nocookie.net/the-batman-universe/images/7/7e/Penguin_promo_-_The_Batman.jpg/revision/latest?cb=20220209175727');
+    background-image: url('https://static.wikia.nocookie.net/the-batman-universe/images/7/7e/Penguin_promo_-_The_Batman.jpg');
 
 } 
 
