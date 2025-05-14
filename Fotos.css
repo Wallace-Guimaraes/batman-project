@@ -9,6 +9,9 @@
     text-decoration: none;
     background-color: black;
 }
+body{
+    overflow-x: hidden;
+}
 
 header {
     height: 121px;
